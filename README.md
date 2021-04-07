@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bezaleel Nwabia
 - 👀 I’m interested in CyberSecurity, Software Development, Particulary Developing Finance aid scripts & softwares
-- 🌱 I’m currently learning To Master AngularJS and Nodejs, Fully understand advance C#, Javascript, ASP.NET & ReactNative Topics/Concepts
-- 💞️ I’m looking to collaborate on General Web Development Projects(with Nodejs or Php), Finance Software Development(With Either or Both of AngularJs & ASP.NET) and CyberSecurity Projects(with Python)
+- 🌱 I’m currently learning React and Nodejs, Fully understand advance C#, Javascript, ASP.NET & ReactNative Topics/Concepts
+- 💞️ I’m looking to collaborate on General Software Development Projects(with either of Nodejs, React & .NET), Android/iOS App Development(With ReactNative) and CyberSecurity Projects(with Python)
 - 📫 You Can reach me by Mail = bezaleelnwabia@gmail.com, Twitter = https://twitter.com/bazzbillion
 
 <!---
