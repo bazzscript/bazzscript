@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bezaleel Nwabia
-- 👀 I’m interested in CyberSecurity, Software Development, Particulary Developing Finance aid scripts & softwares
-- 🌱 I’m currently learning to master React and Nodejs, Fully understand advance C#, Javascript, .NET & ReactNative Topics/Concepts
-- 💞️ I’m looking to collaborate on General Software Development Projects(with either of Nodejs, React & .NET), Android/iOS App Development(With ReactNative) and CyberSecurity Projects(with Python)
-- 📫 You Can reach me by Mail = bezaleelnwabia@gmail.com, Twitter = https://twitter.com/bazzbillion
+- 👀 I’m interested in CyberSecurity & General Software Development
+- 🌱 Eloquent in Python, currently learning to master Nodejs, then React.
+- 💞️ I’m looking to collaborate on General Software Development Projects(with either of Nodejs or Django), Android/iOS App Development(With ReactNative) and CyberSecurity Projects(with Python)
+- 📫 Lets Connect on Twitter = https://twitter.com/emex_bazz
 
 <!---
 emexbazz/emexbazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
