@@ -1,23 +1,24 @@
-## 👋 Hi, I’m Bezaleel Nwabia
+## 👋 Hello there 🖥️, 
+
+<img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
+
+## 🖐️ I’m Bezaleel Nwabia
 ## 
 ## 🌱 Developer of Awesome Platforms & Beatiful Mobile Applications
 
----
 
-## ⚡ My Current Technologies Stack
-
-![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
-![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
----
-
+- 🖥️ currently work's from Home
 - 👀 Interested in General Software Development
 - 👯 looking to collaborate on freelancing projects
-- 💬 Ask me everything about coding😇 I love debugging & would be glad to help 😎
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Adam & Eve were the first ones to ignore the Apple terms and conditions.
+
+
+### Tech Stack
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
+
+
 - Interested in What I do ? shoot me a mail on [mail](mailto: bezaleelnwabia@gmail.com)
 
 <!---
