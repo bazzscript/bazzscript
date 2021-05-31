@@ -2,6 +2,8 @@
 ## 
 ## 🌱 Developer of Awesome Platforms & Beatiful Mobile Applications
 
+---
+
 ## ⚡ My Current Technologies Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
@@ -13,8 +15,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+---
+
 - 👀 Interested in General Software Development
-- 👯 I’m looking to collaborate on freelancing projects
+- 👯 looking to collaborate on freelancing projects
 - 💬 Ask me everything about coding😇 I love debugging & would be glad to help 😎
 - Interested in What I do ? shoot me a mail on [mail](mailto: bezaleelnwabia@gmail.com)
 
