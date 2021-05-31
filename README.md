@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bezaleel Nwabia
-- 
-- 🌱 Building Awesome Platforms with NodeJs & Beatiful Mobile Applications with Flutter
-## ⚡ Technologies
+## 👋 Hi, I’m Bezaleel Nwabia
+## 
+## 🌱 Building Awesome Platforms & Beatiful Mobile Applications
+## ⚡ My Current Technologies Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
@@ -13,7 +13,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 - 👀 Interested in General Software Development
-- Interested in What I do ? shoot me a mail on bezaleelnwabia@gmail.com
+- 👯 I’m looking to collaborate on freelancing projects
+- 💬 Ask me everything about coding😇 I love debugging & would be glad to help 😎
+- Interested in What I do ? shoot me a mail on [mail](mailto: bezaleelnwabia@gmail.com)
+
 <!---
 emexbazz/emexbazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
