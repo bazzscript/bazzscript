@@ -21,6 +21,19 @@
 
 - Interested in What I do ? shoot me a mail on [mail](mailto: bezaleelnwabia@gmail.com)
 
+## Github Stats
+
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/emexbazz">https://profile-summary-for-github.com/user/emexbazz</a>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emexbazz&theme=blueberry" alt="emexbazz"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=emexbazz&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emexbazz&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+</p>
+
 <!---
 emexbazz/emexbazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
