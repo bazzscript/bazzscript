@@ -20,7 +20,7 @@
 
 
 - Interested in What I do ? shoot me a mail on [mail](mailto: bezaleelnwabia@gmail.com)
-
+<!---
 ## Github Stats
 
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/emexbazz">https://profile-summary-for-github.com/user/emexbazz</a>
@@ -34,7 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emexbazz&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
 
-<!---
+
 emexbazz/emexbazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
