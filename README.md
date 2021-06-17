@@ -5,7 +5,8 @@
 ## 👨‍💻 I’m Bezaleel Nwabia
 
    🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Platforms & Beatiful Mobile Applications
-In here lieth abundance of code, some glittery as gold, others a little bit old.
+##
+<strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
 - 👯 I’m looking to collaborate on pure vibes and code casting
 - 💬 Ask me about Flutter 
