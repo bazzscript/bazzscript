@@ -1,17 +1,17 @@
-## 👋 Hello there 🖥️, 
+## 👋 Hello there 🖥️, I’m Bezaleel Nwabia
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
-## 🖐️ I’m Bezaleel Nwabia
 ## 
-## 🌱 Developer of Awesome Platforms & Beatiful Mobile Applications
+## 🌱 I Posess Supernatural Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Platforms & Beatiful Mobile Applications
 
+>
+In here lieth abundance of code, some glittery as gold, others a little bit old. My treasures I lay upon this altar of open sorcery.
+>
 
-- 🖥️ currently work's from Home
-- 👀 Interested in General Software Development
-- 👯 looking to collaborate on freelancing projects
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Adam & Eve were the first ones to ignore the Apple terms and conditions.
+- 👀 Interested in General Software Creation, Manipulation & Development
+- 👯 I’m looking to collaborate on pure vibes and code casting
+- 💬 Ask me about flutter
 
 
 ### Tech Stack
