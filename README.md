@@ -2,16 +2,16 @@
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
-## 
-## 🌱 I Posess Supernatural Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Platforms & Beatiful Mobile Applications
+##
+🌱 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Platforms & Beatiful Mobile Applications
+##
 
->
-In here lieth abundance of code, some glittery as gold, others a little bit old. My treasures I lay upon this altar of open sorcery.
->
+Welcome to my altar of open sorcery. In here lieth abundance of code, some glittery as gold, others a little bit old.
+##
 
-- 👀 Interested in General Software Creation, Manipulation & Development
+
 - 👯 I’m looking to collaborate on pure vibes and code casting
-- 💬 Ask me about flutter
+- 💬 Ask me about Flutter 
 
 
 ### Tech Stack
