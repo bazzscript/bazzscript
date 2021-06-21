@@ -8,8 +8,8 @@
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
-- ✍️Technical Blogger @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
-- 🚧 I'm currently focused on improving my ability to provide high quality croos Platform applications using Flutter
+- ✍️Preaching the Flutter Sermon @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+- 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter
 - 👯 I’m looking to collaborate on pure vibes and code casting
 - 💬 Ask me about Flutter 
 
