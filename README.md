@@ -2,12 +2,14 @@
 ## 🔮 Welcome to this altar of open sorcery
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
-## 👨‍💻 I’m Bezaleel Nwabia
+## 👨‍💻 I’m [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/)
 
    🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Platforms & Beatiful Mobile Applications
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
+- ✍️Technical Blogger @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+- 🚧 I'm currently focused on improving my ability to provide high quality croos Platform applications using Flutter
 - 👯 I’m looking to collaborate on pure vibes and code casting
 - 💬 Ask me about Flutter 
 
@@ -17,7 +19,7 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
 
 
-- Interested in What I do ? shoot me a mail on [mail](mailto: bezaleelnwabia@gmail.com)
+- Interested in What I do ? shoot a mail to bezaleelnwabia@gmail.com
 <!---
 ## Github Stats
 
