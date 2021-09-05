@@ -1,17 +1,17 @@
-## 👋 Hello there 🖥️, 
+## 👋 Hello Human 🖥️, 
 ## 🔮 Welcome to this altar of open sorcery
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
-## 👨‍💻 I’m [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/)
+## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
 
-   🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Platforms & Beatiful Mobile Applications
+   🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome RestApi's & Beatiful Mobile Applications
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
-- ✍️Preaching the Flutter Sermon @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
-- 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter
+- ✍️Preaching the Tech Sermons @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+- 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter & Building Efficient, Fast & Highly scalable RestApi's
 - 👯 I’m looking to collaborate on pure vibes and code casting
-- 💬 Ask me about Flutter 
+- 💬 Ask me about Flutter & Backend Development
 
 
 ### Tech Stack
