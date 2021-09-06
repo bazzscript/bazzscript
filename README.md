@@ -11,7 +11,7 @@
 - ✍️Preaching the Tech Sermons @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 - 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter & Building Efficient, Fast & Highly scalable RestApi's
 - 👯 I’m looking to collaborate on pure vibes and code casting
-- 💬 Ask me about Flutter & Backend Development
+- 💬 Ask me about Flutter , Rest Api's & Computers in general
 
 
 ### Tech Stack
