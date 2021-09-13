@@ -1,8 +1,10 @@
 ## 👋 Hello Human 🖥️, 
+
+## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
+
 ## 🔮 Welcome to this altar of open sorcery
 <img src='https://github.com/bazzscript/bazzscript/blob/main/ezgif.com-gif-maker.gif' width='600"' height='350"'>
 
-## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
 
    🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome RestApi's & Beatiful Mobile Applications
 ##
