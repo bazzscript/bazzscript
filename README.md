@@ -1,6 +1,6 @@
 ## 👋 Hello Human 🖥️, 
 ## 🔮 Welcome to this altar of open sorcery
-<img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
+<img src='https://github.com/bazzscript/bazzscript/blob/main/ezgif.com-gif-maker.gif' width='600"' height='350"'>
 
 ## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
 
