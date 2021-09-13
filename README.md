@@ -11,7 +11,7 @@
 - ✍️Preaching the Tech Sermons @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 - 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter & Building Efficient, Fast & Highly scalable RestApi's
 - 👯 I’m looking to collaborate on pure vibes and code casting
-- 💬 Ask me about Flutter , Rest Api's & Computers in general
+- 💬 Ask me about Flutter , Software Backend, Rest Api's , Hacking & Computers in general
 
 
 ### Tech Stack
@@ -20,7 +20,7 @@
 
 
 - Interested in What I do ? shoot a mail to bezaleelnwabia@gmail.com
-<!---
+-
 ## Github Stats
 
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/emexbazz">https://profile-summary-for-github.com/user/emexbazz</a>
@@ -35,6 +35,6 @@
 </p>
 
 
-emexbazz/emexbazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- emexbazz/emexbazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+- -->
