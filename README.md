@@ -6,7 +6,7 @@
 
 ## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
 
-   🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome RestApi's & Beatiful Mobile Applications
+   🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Software Backends, RestApi's & Beatiful Mobile Applications
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
