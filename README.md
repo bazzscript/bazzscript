@@ -2,7 +2,7 @@
 
 ## 🔮 Welcome to this altar of open sorcery
 
-<img src='https://github.com/bazzscript/bazzscript/blob/main/matrix.svg' '>
+<img src='https://github.com/bazzscript/bazzscript/blob/main/matrix.svg' >
 
 ## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
 
