@@ -1,4 +1,4 @@
-## 👋 Hello Human 🖥️, 
+## 👋 Hello Beautiful Human 🖥️, 
 
 ## 🔮 Welcome to this altar of open sorcery
 
@@ -6,14 +6,14 @@
 
 ## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
 
-   🧙 I Posess the Powers To Control & Manipulate Bits Of Computer, Conjuring the most Awesome Software Backends, RestApi's & Beatiful Mobile Applications
+   🧙 I Control & Manipulate Bits Of Computer, Conjuring the most Awesome Softwares & Beatiful Mobile Applications
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
 - ✍️Preaching the Tech Sermons @ <a href="https://hashnode.com/@emexbazz" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
-- 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter & Building Efficient, Fast & Highly scalable RestApi's
+- 🚧 I'm currently focused on improving my ability to provide high quality cross Platform applications using Flutter & Building Efficient, Fast & Highly scalable Software's
+
 - 👯 I’m looking to collaborate on pure vibes and code casting
-- 💬 Ask me about Flutter , Software Backend, Rest Api's , Hacking & Computers in general
 
 
 ### Tech Stack
