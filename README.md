@@ -16,12 +16,12 @@
 - 👯 I’m looking to collaborate on pure vibes and code casting
 
 
-### Tech Stack
+# Technology Stack
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
 
 
-- Interested in What I do ? shoot a mail to bezaleelnwabia@gmail.com
+<!-- - Interested in What I do ? shoot a mail to bezaleelnwabia@gmail.com
 -
 ## Github Stats
 
@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bazzscript&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazzscript&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
-
+ -->
 
 <!-- bazzscript/bazzscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
