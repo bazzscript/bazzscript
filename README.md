@@ -1,13 +1,10 @@
 ## 👋 Hello Beautiful Human 🖥️, 
 
 ## 🔮 Welcome to this altar of open sorcery
-<p>
 <img src='https://github.com/bazzscript/bazzscript/blob/main/p0.gif' >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazzscript&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=100% height="250px"/>
-</p>
-## 👨‍💻 I Am [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/)
+## 👨‍💻 I Am [Bezaleel](https://www.linkedin.com/in/bezaleel-nwabia/)
 
-   🧙 I Control & Manipulate Bits Of Computer, Conjuring the most Coolest & Awesome Softwares
+## 🧙 I Control & Manipulate Bits Of Computer, Conjuring the most Coolest & Awesome Softwares
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
@@ -19,6 +16,7 @@
 
 - -->
 - Interested in What I do ? shoot a mail to bezaleelnwabia@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazzscript&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=50% height="200px"/>
 
 <!--
 ## Github Stats
