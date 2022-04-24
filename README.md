@@ -1,7 +1,9 @@
 ## 👋 Hello Beautiful Human 🖥️, 
 
 ## 🔮 Welcome to this altar of open sorcery
+
 <img src='https://github.com/bazzscript/bazzscript/blob/main/p0.gif' >
+
 ## 👨‍💻 I Am [Bezaleel](https://www.linkedin.com/in/bezaleel-nwabia/)
 
 ## 🧙 I Control & Manipulate Bits Of Computer, Conjuring the most Coolest & Awesome Softwares
