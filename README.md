@@ -4,13 +4,13 @@
 
 <img src='https://github.com/bazzscript/bazzscript/blob/main/p0.gif' >
 
-## 👨‍💻 I Am [BAZZ](https://www.linkedin.com/in/bezaleel-nwabia/)
+## 👨‍💻 I Am [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/)
 
    🧙 I Control & Manipulate Bits Of Computer, Conjuring the most Coolest & Awesome Softwares
 ##
 <strong><em> In here lieth abundance of code, some glittery as gold, others a little bit old </em></strong>.
 ##
-- ✍️In my free time i Preach the Tech Sermons @ <a href="https://hashnode.com/@bazzscript" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+- ✍️In my spare time, i write about the technologies i use @ <a href="https://hashnode.com/@bazzscript" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 
 <!--
 
@@ -20,7 +20,7 @@
 
 - -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazzscript&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="250px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazzscript&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=100% height="250px"/>
 
 - Interested in What I do ? shoot a mail to bezaleelnwabia@gmail.com
 
