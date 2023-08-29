@@ -2,7 +2,7 @@
 
 🌌 Welcome to the Nexus of Quantum Enchantments
 
-🧙‍♂️ I Am [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/). 🌟 I Command & Weave Cosmic Threads of Code, Conjuring the most Astounding & Futuristic Softwares
+🧙‍♂️ I Am [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/). 🌌 I Forge and Sculpt Computations at My Whim, Weaving Cosmic Threads of Code to Unleash Astounding and Unbounded Software Wonders
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFienl1NW5sYjN6bHB6NGVwNjNnODFpMjh3N2hpYWgzMmllbW1vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6Bbs0txXRZ80D8ii5/giphy.gif' >
 
