@@ -15,6 +15,9 @@
 <a href="mailto:bezaleelnwabia@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://bezaleelnwabia.hashnode.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Technical Articles-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>&nbsp;&nbsp;
 <!--   <img src="https://gpvc.arturio.dev/iamnotstatic" /> -->
   
   <!--
