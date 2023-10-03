@@ -1,16 +1,31 @@
-## 👋 Greetings, Fellow Traveler of the Cosmos 🌌
+<h1 align='center'>Hi there 👋🏾</h1>
 
-🌌 Welcome to the Nexus of Quantum Enchantments
+<p align='center'>Full-Stack Software Engineer || Backend Development || DevOps || Mobile App Development || Building Stuffs. 🥘 🔨 🚀 🌕</p>
 
-🧙‍♂️ I Am [Bezaleel Nwabia](https://www.linkedin.com/in/bezaleel-nwabia/). 🌌 I Forge and Sculpt Computations at My Whim, Weaving Cosmic Threads of Code to Unleash Astounding and Unbounded Software Wonders
+<p align='center'>
+<!-- <a href="https://wa.me/2349061147343?text=Hello Bezaleel" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp; -->
+<a href="https://twitter.com/bazzscript" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bezaleel-nwabia/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:bezaleelnwabia@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<!--   <img src="https://gpvc.arturio.dev/iamnotstatic" /> -->
+  
+  <!--
+  <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=iamnotstatic&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotstatic&hide=css,java,html&theme=tokyonight">
+</p>
+-->
+</p>
+ 
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFienl1NW5sYjN6bHB6NGVwNjNnODFpMjh3N2hpYWgzMmllbW1vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6Bbs0txXRZ80D8ii5/giphy.gif' >
-
-<strong>Within these realms lie boundless code, some gleaming like stardust, others with a touch of antiquity</strong>.
-
-✍️During moments of cosmic contemplation, I inscribe my thoughts on the technologies I wield @ <a href="https://hashnode.com/@bazzscript" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
-
-
-Curious about my cosmic endeavors? Transmit a subspace missive to bezaleelnwabia@gmail.com
-
-
+<!-- <p align='center'>
+<a href="https://stackoverflow.com/users/10612336/iamnotstatic"><img src="" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
+</p> -->
