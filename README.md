@@ -1,8 +1,8 @@
-[![matrix](https://raw.githubusercontent.com/bazzscript/bazzscript/34d96e4d8f7902bcea08b07bd01123cc814cd8c2/matrix.svg)
+![matrix](https://raw.githubusercontent.com/bazzscript/bazzscript/34d96e4d8f7902bcea08b07bd01123cc814cd8c2/matrix.svg)
 
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>Full-Stack Software Engineer || Backend Development || DevOps || Mobile App Development || Building Stuffs. 🥘 🔨 🚀 🌕</p>
+<p align='center'>Full-Stack Software Engineer || Backend Engineer || DevOps Engineer || Mobile App Development || Building Stuffs. 🥘 🔨 🚀 🌕</p>
 
 <p align='center'>
 <!-- <a href="https://wa.me/2349061147343?text=Hello Bezaleel" target="_blank">
