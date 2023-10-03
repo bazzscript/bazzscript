@@ -1,4 +1,4 @@
-[![matrix](https://raw.githubusercontent.com/appcypher/appcypher/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+[![matrix](https://raw.githubusercontent.com/bazzscript/bazzscript/34d96e4d8f7902bcea08b07bd01123cc814cd8c2/matrix.svg)
 
 <h1 align='center'>Hi there 👋🏾</h1>
 
