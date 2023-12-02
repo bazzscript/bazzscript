@@ -2,7 +2,7 @@
 
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>Full-Stack Software Engineer || Backend Engineer || DevOps Engineer || Mobile App Development || Building Stuffs. 🥘 🔨 🚀 🌕</p>
+<p align='center'>Full-Stack Software Engineer || DevOps Engineer || Building Stuffs. 🥘 🔨 🚀 🌕</p>
 
 <p align='center'>
 <!-- <a href="https://wa.me/2349061147343?text=Hello Bezaleel" target="_blank">
