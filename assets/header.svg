@@ -1,0 +1,23 @@
+<svg width="854" height="160" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 160">
+  <style>
+    .text { font-size: 48px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; }
+    .text { animation: twinkling 4s ease-in-out infinite; }
+    @keyframes twinkling { 40% { opacity: 1; } 50% { opacity: 0.5; } 60% { opacity: 1; } 70% { opacity: 0.5; } 80% { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0f0a"/>
+      <stop offset="50%" stop-color="#0d1f0d"/>
+      <stop offset="100%" stop-color="#34ff00"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(427, 80) scale(1, 1) translate(-427, -80)">
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 80Q 213.5 120 427 90T 854 115L 854 0 Z;M0 0L 0 105Q 213.5 120 427 100T 854 90L 854 0 Z;M0 0L 0 125Q 213.5 95 427 125T 854 90L 854 0 Z;M0 0L 0 80Q 213.5 120 427 90T 854 115L 854 0 Z"/>
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 95Q 213.5 140 427 110T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 80 427 80T 854 100L 854 0 Z;M0 0L 0 105Q 213.5 85 427 110T 854 125L 854 0 Z;M0 0L 0 95Q 213.5 140 427 110T 854 120L 854 0 Z"/>
+    </path>
+  </g>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" fill="#e6ffe6">Bezaleel Nwabia</text>
+</svg>
