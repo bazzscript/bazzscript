@@ -6,9 +6,9 @@
   </style>
   <defs>
     <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0a0f0a"/>
-      <stop offset="50%" stop-color="#0d1f0d"/>
-      <stop offset="100%" stop-color="#34ff00"/>
+      <stop offset="0%" stop-color="#0f0a1a"/>
+      <stop offset="50%" stop-color="#2e1065"/>
+      <stop offset="100%" stop-color="#A855F7"/>
     </linearGradient>
   </defs>
   <g transform="translate(427, 80) scale(1, 1) translate(-427, -80)">
@@ -19,5 +19,5 @@
       <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 95Q 213.5 140 427 110T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 80 427 80T 854 100L 854 0 Z;M0 0L 0 105Q 213.5 85 427 110T 854 125L 854 0 Z;M0 0L 0 95Q 213.5 140 427 110T 854 120L 854 0 Z"/>
     </path>
   </g>
-  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" fill="#e6ffe6">Bezaleel Nwabia</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="50%" class="text" fill="#EDE9FE">Bezaleel Nwabia</text>
 </svg>
