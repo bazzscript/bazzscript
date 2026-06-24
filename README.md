@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+%7C+Data+Engineer;Backend+%26+Data+Pipelines+%C2%B7+Python+%C2%B7+Spark+%C2%B7+AWS;Mobile+%26+Web+%C2%B7+Distributed+Systems+%C2%B7+Applied+ML" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Senior+Backend+%26+Platform+Engineer;Building+Scalable+Cloud+Infrastructure;Multi-tenant+Systems+%C2%B7+Serverless+%C2%B7+Applied+ML" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -28,15 +28,12 @@
     <td valign="top">
       <h3>About</h3>
       <p>
-        Senior Full-Stack Engineer with <strong>5+ years</strong> building mobile apps, web applications, and backend APIs.
+        Senior Full-Stack Engineer with <strong>5+ years</strong> of experience building mobile apps, web applications, and backend APIs.
         Skilled in cloud architecture, distributed systems, and leading teams delivering scalable products.
+        Currently developing skills in applied machine learning to build intelligent, data-driven systems.
       </p>
       <p>
-        <strong>Senior Software Engineer · Data Engineer</strong> — backend & data pipelines (Python, Databricks, Spark, AWS).
-        Currently developing applied machine learning to build intelligent, data-driven systems.
-      </p>
-      <p>
-        <strong>2× CTO</strong> · <strong>Lead Software Engineer</strong> · <strong>Enugu State, Nigeria</strong>
+        <strong>Senior Backend & Platform Engineer</strong> · <strong>2× CTO</strong> · <strong>Lead Software Engineer</strong> · <strong>Enugu State, Nigeria</strong>
       </p>
     </td>
   </tr>
@@ -46,7 +43,7 @@
 
 ### Recruiters & hiring managers
 
-> Most of my highest-impact work lives in **private repositories** — production platforms, fintech, logistics, AI pipelines, and global serverless backends.
+> Most of my highest-impact work lives in **private repositories** — multi-tenant platforms, fintech wallets, serverless backends, RAG pipelines, and production cloud infrastructure.
 > This page is the quick scan. The full story is on my portfolio.
 
 <p align="center">
@@ -61,12 +58,11 @@
 
 | | |
 | :--- | :--- |
-| **Title** | Senior Software Engineer · Data Engineer · Backend & Data Pipelines |
-| **Stack** | Python · Databricks · Spark · AWS · TypeScript · Serverless |
+| **Title** | Senior Backend & Platform Engineer · Scalable Cloud Infrastructure |
+| **Stack** | NestJS · FastAPI · TypeScript · Python · AWS · PostgreSQL · MongoDB · Serverless |
 | **Leadership** | 2× CTO · Lead Software Engineer |
-| **Currently** | Co-Founder & CTO @ **Intelligent Food Solutions** — [MealCondo](https://mealcondo.com) |
-| **Also** | Senior Software Engineer @ **MESiERE** — **DevotionHub** (London) |
-| **Also** | CTO @ **Quick Leap** — food supply chain platform (Lagos) |
+| **Currently** | Co-Founder & CTO @ **Intelligent Food Solutions** — [MealCondo](https://mealcondo.com) · Abuja |
+| **Previously** | Senior Software Engineer @ **MESiERE** — **DevotionHub** · CTO @ **Quick Leap** |
 | **Location** | Enugu State, Nigeria · Open to remote |
 | **Education** | B.E. Computer Engineering — Enugu State University of Science and Technology |
 
@@ -77,38 +73,52 @@
 <details open>
   <summary><b>🍳 MealCondo</b> · Co-Founder & CTO · Intelligent Food Solutions</summary>
   <br/>
-  Developing intelligent technology redefining the food ecosystem.
-  <a href="https://mealcondo.com">mealcondo.com</a> — an AI kitchen assistant designed for the modern home.
+  Co-founded and own the full technical vision for <a href="https://mealcondo.com">MealCondo</a> — an AI-driven, <strong>multi-tenant</strong> platform spanning web, mobile, and cloud infrastructure.
   <br/><br/>
+  <strong>Architectural highlights:</strong>
+  <ul>
+    <li><strong>Polyglot microservices</strong> — NestJS for multi-tenant business logic; Python FastAPI for compute-heavy data workflows</li>
+    <li><strong>RAG pipeline</strong> — low-latency ingestion, vectorization, and contextual tenant data serving to the AI engine</li>
+    <li><strong>Full-stack delivery</strong> — multi-tenant web and cross-platform mobile apps, optimized for payload size and network latency</li>
+    <li><strong>IaC & CI/CD</strong> — cloud infrastructure with strict tenant isolation boundaries and self-healing deployment pipelines</li>
+  </ul>
+  <br/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-9333EA?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-9333EA?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </details>
 
 <details>
   <summary><b>🙏 DevotionHub</b> · Senior Software Engineer @ MESiERE</summary>
   <br/>
-  Own, build, and deliver end-to-end features for <strong>DevotionHub</strong> — a faith-based mobile platform (devotionals, prayer communities, podcast streaming, AI-powered content).
-  Work closely with product, frontend, mobile, and QA to ship scalable backend systems on a global serverless stack (<strong>99.9% uptime</strong>).
-  Engineered AI text-to-audio pipelines, automated content moderation, and an AI validation gatekeeper enforcing data integrity before publish.
-  Deployed real-time WebSocket microservices and cut feature-to-production time by <strong>30%</strong> in 3 months.
+  Collaborated on the backend team building and scaling <strong>DevotionHub</strong> — a high-traffic, faith-based serverless application platform.
   <br/><br/>
+  <strong>Key contributions:</strong>
+  <ul>
+    <li><strong>Serverless on AWS</strong> — SST and Lambda, maintaining <strong>99.9% uptime</strong></li>
+    <li><strong>AI data pipelines</strong> — async content moderation, text-to-audio processing, and an AI validation layer for data integrity</li>
+    <li><strong>Real-time</strong> — low-latency WebSocket microservices for live user interactions</li>
+    <li><strong>Hybrid databases</strong> — PostgreSQL for auth/permissions; MongoDB for unstructured content at scale</li>
+  </ul>
+  <br/>
   <img src="https://img.shields.io/badge/SST-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-9333EA?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-9333EA?style=flat-square&logo=socketdotio&logoColor=white" />
 </details>
 
 <details>
   <summary><b>🌾 Quick Leap</b> · Chief Technology Officer</summary>
   <br/>
-  Lead Quick Leap's technology team — backend systems and cloud infrastructure.
-  Built and maintain the entire backend and APIs from scratch.
-  Manage cloud strategy, deployment, and operations for reliability and performance.
-  Drive technical direction and align engineering with company goals across the food supply chain platform.
+  Led Quick Leap's technology team — backend systems and cloud infrastructure for a food supply chain platform.
+  Built and maintained the entire backend and APIs from scratch.
+  Owned cloud strategy, deployment, and operations for reliability and performance.
+  Drove technical direction aligned with company goals.
   <br/><br/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -145,18 +155,18 @@
 ### Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-9333EA?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-9333EA?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -172,6 +182,6 @@ Technical articles and engineering notes on **[Hashnode →](https://bezaleelnwa
 </p>
 
 <p align="center">
-  <strong><em>Building digital products that scale.</em></strong><br/><br/>
+  <strong><em>Building scalable cloud infrastructure.</em></strong><br/><br/>
   <a href="mailto:bezaleelnwabia@gmail.com">bezaleelnwabia@gmail.com</a>
 </p>
